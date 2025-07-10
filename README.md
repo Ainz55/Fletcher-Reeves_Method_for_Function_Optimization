@@ -77,12 +77,17 @@ ___
 ### Visualization
 
 #### 1. Fletcher-Reeves Method(3D)
+![image](https://github.com/user-attachments/assets/97823110-6d89-45e3-b863-6e32fed09ae2)
 
 
 #### 2. Search trajectory
+![image](https://github.com/user-attachments/assets/a53fbabe-fe2e-4c37-a7a3-0eaf05a6540d)
 
 
 #### 3. Algorithm convergence
+![image](https://github.com/user-attachments/assets/cea58399-21ab-452f-b995-0c563316629d)
 
 
 #### 4. Method parameters
+![image](https://github.com/user-attachments/assets/24f550bf-1793-4ca9-ae7f-e1fb7edb9ae8)
+
